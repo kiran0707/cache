@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.container.tools.init.PluginInitComponentTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-01-21T12:59:57" hostname="DESKTOP-OOU3C7O" time="0.652">
+  <properties/>
+  <testcase name="feature tracking is set in when all conditions are met" classname="com.google.container.tools.init.PluginInitComponentTest" time="0.337"/>
+  <testcase name="feature tracking is not set when the feature tracking preference has already been set" classname="com.google.container.tools.init.PluginInitComponentTest" time="0.122"/>
+  <testcase name="feature tracking is not set when the gct plugin is installed" classname="com.google.container.tools.init.PluginInitComponentTest" time="0.139"/>
+  <testcase name="feature tracking is not set when the feature tracking is not available" classname="com.google.container.tools.init.PluginInitComponentTest" time="0.05"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

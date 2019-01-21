@@ -1,0 +1,25 @@
+<idea-plugin>
+  <version>18.12.1-alpha-SNAPSHOT</version>
+  <id>google-container-tools</id>
+  <name>Google Container Tools</name>
+  <vendor>Google</vendor>
+  <description>
+    &lt;html&gt;
+      &lt;p&gt;Google Container Tools&lt;/p&gt;
+      &lt;p&gt;Under development - coming soon!&lt;/p&gt;
+    &lt;/html&gt;
+    </description>
+  <idea-version since-build="182.0" until-build="183.*"/>
+  <depends>com.intellij.modules.lang</depends>
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="/META-INF/core.xml" xpointer="xpointer(/idea-plugin/*)"/>
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="/META-INF/skaffold.xml" xpointer="xpointer(/idea-plugin/*)"/>
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="/META-INF/skaffold-editing.xml" xpointer="xpointer(/idea-plugin/*)"/>
+  <application-components>
+    <component>
+      <implementation-class>com.google.container.tools.init.PluginInitComponent</implementation-class>
+    </component>
+  </application-components>
+  <extensions defaultExtensionNs="com.intellij">
+    <errorHandler implementation="com.google.container.tools.diagnostics.GoogleFeedbackErrorReporter"/>
+  </extensions>
+</idea-plugin>

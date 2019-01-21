@@ -1,0 +1,113 @@
+2019-01-21 18:28:17,962 [      0]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@61630c76[Running, parallelism = 4, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@73bdcfa5 
+2019-01-21 18:28:23,310 [   5348]   INFO - llij.ide.plugins.PluginManager - 3 plugins initialized in 4847 ms 
+2019-01-21 18:28:23,310 [   5348]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: IDEA CORE (183.4284.148), YAML (183.4284.148) 
+2019-01-21 18:28:23,310 [   5348]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Google Container Tools (18.12.1-alpha-SNAPSHOT) 
+2019-01-21 18:28:33,435 [  15473]   INFO - ij.components.ComponentManager - com.intellij.openapi.components.impl.ServiceManagerImpl initialized in 885 ms 
+2019-01-21 18:28:33,636 [  15674]   INFO - ij.components.ComponentManager - com.intellij.openapi.util.registry.RegistryState initialized in 122 ms 
+2019-01-21 18:28:33,689 [  15727]   INFO - ij.components.ComponentManager - com.intellij.ide.FrameStateManagerImpl initialized in 47 ms 
+2019-01-21 18:28:33,689 [  15727]   INFO - ij.components.ComponentManager - com.intellij.internal.statistic.updater.StatisticsJobsScheduler initialized in 50 ms 
+2019-01-21 18:28:34,353 [  16391]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: 'C:\Users\User\Desktop\google-container-tools-intellij-master\google-container-tools-intellij-master\build\idea-sandbox\system-test\caches\names.dat' does not exist 
+2019-01-21 18:28:34,353 [  16391]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=492; buffer=10; max=492 
+2019-01-21 18:28:35,039 [  17077]   INFO - ij.components.ComponentManager - com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl initialized in 1323 ms 
+2019-01-21 18:28:35,271 [  17309]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is disabled 
+2019-01-21 18:28:35,271 [  17309]   INFO - ij.components.ComponentManager - com.intellij.openapi.vfs.impl.local.LocalFileSystemImpl initialized in 1567 ms 
+2019-01-21 18:28:35,456 [  17494]   INFO - ij.components.ComponentManager - com.intellij.openapi.vfs.PlatformVirtualFileManager initialized in 1765 ms 
+2019-01-21 18:28:35,525 [  17563]   INFO - ij.components.ComponentManager - com.intellij.configurationStore.StoreAwareProjectManager initialized in 1838 ms 
+2019-01-21 18:28:36,943 [  18981]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2019-01-21 18:28:37,614 [  19652]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2019-01-21 18:28:37,614 [  19652]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2019-01-21 18:28:41,156 [  23194]   INFO - ij.components.ComponentManager - com.intellij.openapi.fileTypes.impl.FileTypeManagerImpl initialized in 5637 ms 
+2019-01-21 18:28:41,272 [  23310]   INFO - ij.components.ComponentManager - com.intellij.openapi.fileEditor.impl.FileDocumentManagerImpl initialized in 112 ms 
+2019-01-21 18:28:42,094 [  24132]   INFO - ij.components.ComponentManager - com.intellij.openapi.keymap.impl.KeymapManagerImpl initialized in 705 ms 
+2019-01-21 18:28:45,045 [  27083]   INFO - ij.components.ComponentManager - com.intellij.openapi.actionSystem.impl.ActionManagerImpl initialized in 3643 ms 
+2019-01-21 18:28:45,229 [  27267]   INFO - ij.components.ComponentManager - com.intellij.openapi.editor.impl.EditorFactoryImpl initialized in 3952 ms 
+2019-01-21 18:28:45,376 [  27414]   INFO - ij.components.ComponentManager - com.intellij.history.integration.LocalHistoryImpl initialized in 143 ms 
+2019-01-21 18:28:45,583 [  27621]   INFO - ij.components.ComponentManager - com.intellij.openapi.command.impl.UndoManagerImpl initialized in 203 ms 
+2019-01-21 18:28:45,699 [  27737]   INFO - ij.components.ComponentManager - com.intellij.openapi.command.impl.DocumentReferenceManagerImpl initialized in 117 ms 
+2019-01-21 18:28:45,850 [  27888]   INFO - ij.components.ComponentManager - com.intellij.diagnostic.PerformanceWatcher initialized in 154 ms 
+2019-01-21 18:28:45,899 [  27937]   INFO - ij.components.ComponentManager - com.intellij.internal.statistic.persistence.UsageStatisticsPersistenceComponent initialized in 36 ms 
+2019-01-21 18:28:45,915 [  27953]   INFO - ij.components.ComponentManager - com.intellij.notification.EventLog initialized in 24 ms 
+2019-01-21 18:28:46,516 [  28554]   INFO - ij.components.ComponentManager - com.intellij.util.net.HttpConfigurable initialized in 591 ms 
+2019-01-21 18:28:50,958 [  32996]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2019-01-21 18:28:50,974 [  33012]   INFO - ij.components.ComponentManager - com.intellij.util.net.ssl.CertificateManager initialized in 4460 ms 
+2019-01-21 18:28:50,996 [  33034]   INFO - ij.components.ComponentManager - com.intellij.diagnostic.DebugLogManager initialized in 26 ms 
+2019-01-21 18:28:51,011 [  33049]   INFO - ij.components.ComponentManager - com.intellij.openapi.editor.impl.EditorLastActionTrackerImpl initialized in 12 ms 
+2019-01-21 18:28:51,027 [  33065]   INFO - ij.components.ComponentManager - org.jetbrains.ide.BuiltInServerManagerImpl initialized in 18 ms 
+2019-01-21 18:28:51,209 [  33247]   INFO - ij.components.ComponentManager - com.intellij.diagnostic.LowMemoryNotifier initialized in 170 ms 
+2019-01-21 18:28:51,511 [  33549]   INFO - ij.components.ComponentManager - com.intellij.ide.IdeTooltipManager initialized in 302 ms 
+2019-01-21 18:28:51,572 [  33610]   INFO - ij.components.ComponentManager - com.intellij.ide.ScreenReaderSupportHandler initialized in 62 ms 
+2019-01-21 18:28:51,642 [  33680]   INFO - ij.components.ComponentManager - com.intellij.openapi.wm.impl.TestWindowManager initialized in 68 ms 
+2019-01-21 18:28:51,683 [  33721]   INFO - ij.components.ComponentManager - com.intellij.formatting.FormatterImpl initialized in 38 ms 
+2019-01-21 18:28:54,007 [  36045]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:2006, number of extensions:25 
+2019-01-21 18:28:54,107 [  36145]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:99 
+2019-01-21 18:28:54,107 [  36145]   INFO - ij.components.ComponentManager - com.intellij.util.indexing.FileBasedIndexImpl initialized in 2426 ms 
+2019-01-21 18:28:54,439 [  36477]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:209, number of extensions:13 
+2019-01-21 18:28:54,461 [  36499]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:30 
+2019-01-21 18:28:54,461 [  36499]   INFO - ij.components.ComponentManager - com.intellij.psi.stubs.StubIndexImpl initialized in 357 ms 
+2019-01-21 18:28:54,524 [  36562]   INFO - ij.components.ComponentManager - com.intellij.tools.ToolManager initialized in 60 ms 
+2019-01-21 18:28:54,524 [  36562]   INFO - ij.components.ComponentManager - com.intellij.psi.stubs.SerializationManagerImpl initialized in 414 ms 
+2019-01-21 18:28:54,577 [  36615]   INFO - ij.components.ComponentManager - com.intellij.ide.actionMacro.ActionMacroManager initialized in 50 ms 
+2019-01-21 18:28:54,677 [  36715]   INFO - ij.components.ComponentManager - com.intellij.openapi.actionSystem.ex.QuickListsManager initialized in 92 ms 
+2019-01-21 18:28:54,962 [  37000]   INFO - ij.components.ComponentManager - com.intellij.compiler.server.BuildManager initialized in 274 ms 
+2019-01-21 18:28:54,962 [  37000]   INFO - ij.components.ComponentManager - com.intellij.compiler.impl.TranslatingCompilerFilesMonitor initialized in 275 ms 
+2019-01-21 18:28:55,179 [  37217]   INFO - ij.components.ComponentManager - com.intellij.execution.ExecutorRegistryImpl initialized in 212 ms 
+2019-01-21 18:28:55,727 [  37765]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 64463 
+2019-01-21 18:28:55,912 [  37950]   INFO - ij.components.ComponentManager - com.intellij.util.xml.impl.JavaDomApplicationComponent initialized in 740 ms 
+2019-01-21 18:28:55,965 [  38003]   INFO - ij.components.ComponentManager - com.google.container.tools.init.PluginInitComponent initialized in 50 ms 
+2019-01-21 18:28:56,951 [  38989]   INFO - plication.impl.ApplicationImpl - 67 application components initialized in 32903ms 
+2019-01-21 18:29:00,522 [  42560]   INFO - ij.components.ComponentManager - com.intellij.openapi.components.impl.ServiceManagerImpl initialized in 89 ms 
+2019-01-21 18:29:00,582 [  42620]   INFO - ij.components.ComponentManager - com.intellij.openapi.vcs.impl.FileStatusManagerImpl initialized in 54 ms 
+2019-01-21 18:29:00,802 [  42840]   INFO - ij.components.ComponentManager - com.intellij.openapi.vfs.encoding.EncodingProjectManagerImpl initialized in 223 ms 
+2019-01-21 18:29:00,818 [  42856]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:CLASS,JAVA,HTML,XML 
+2019-01-21 18:29:00,818 [  42856]   INFO - ij.components.ComponentManager - com.intellij.openapi.roots.impl.ProjectRootManagerComponent initialized in 21 ms 
+2019-01-21 18:29:00,903 [  42941]   INFO - ij.components.ComponentManager - com.intellij.psi.impl.PsiManagerImpl initialized in 80 ms 
+2019-01-21 18:29:00,965 [  43003]   INFO - ij.components.ComponentManager - com.intellij.psi.impl.PsiDocumentManagerImpl initialized in 55 ms 
+2019-01-21 18:29:00,984 [  43022]   INFO - ij.components.ComponentManager - com.intellij.pom.tree.TreeAspect initialized in 16 ms 
+2019-01-21 18:29:01,004 [  43042]   INFO - ij.components.ComponentManager - com.intellij.psi.impl.source.PostprocessReformattingAspect initialized in 14 ms 
+2019-01-21 18:29:01,470 [  43508]   INFO - ij.components.ComponentManager - com.intellij.codeInsight.daemon.impl.DaemonCodeAnalyzerImpl initialized in 468 ms 
+2019-01-21 18:29:01,755 [  43793]   INFO - ij.components.ComponentManager - com.intellij.compiler.CompilerConfigurationImpl initialized in 287 ms 
+2019-01-21 18:29:02,155 [  44193]   INFO - ij.components.ComponentManager - com.intellij.openapi.vcs.impl.ProjectLevelVcsManagerImpl initialized in 405 ms 
+2019-01-21 18:29:02,656 [  44694]   INFO - ij.components.ComponentManager - com.intellij.profile.codeInspection.ProjectInspectionProfileManager initialized in 488 ms 
+2019-01-21 18:29:02,756 [  44794]   INFO - pl$FileIndexDataInitialization - Initialization done:8648 
+2019-01-21 18:29:02,972 [  45010]   INFO - ij.components.ComponentManager - com.intellij.debugger.impl.DebuggerManagerImpl initialized in 319 ms 
+2019-01-21 18:29:03,072 [  45110]   INFO - exImpl$StubIndexInitialization - Initialization done:315 
+2019-01-21 18:29:05,873 [  47911]   INFO - ij.components.ComponentManager - com.intellij.openapi.components.impl.ServiceManagerImpl initialized in 24 ms 
+2019-01-21 18:29:05,970 [  48008]   INFO - ij.components.ComponentManager - com.intellij.ui.EditorNotificationsImpl initialized in 85 ms 
+2019-01-21 18:29:06,008 [  48046]   INFO - ij.components.ComponentManager - com.intellij.openapi.module.impl.ModuleManagerComponent initialized in 25 ms 
+2019-01-21 18:29:06,089 [  48127]   INFO - ij.components.ComponentManager - com.intellij.openapi.fileEditor.impl.TestEditorManagerImpl initialized in 78 ms 
+2019-01-21 18:29:06,985 [  49023]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-01-21 18:29:09,767 [  51805]   INFO - ij.components.ComponentManager - com.intellij.openapi.vcs.impl.ProjectLevelVcsManagerImpl initialized in 26 ms 
+2019-01-21 18:29:10,300 [  52338]   INFO - ij.components.ComponentManager - com.intellij.openapi.vcs.changes.ChangeListManagerImpl initialized in 538 ms 
+2019-01-21 18:29:10,300 [  52338]   INFO - ij.components.ComponentManager - com.intellij.openapi.vcs.changes.VcsDirtyScopeManagerImpl initialized in 540 ms 
+2019-01-21 18:29:10,553 [  52591]   INFO - ij.components.ComponentManager - com.intellij.codeInsight.daemon.impl.DaemonListeners initialized in 4463 ms 
+2019-01-21 18:29:10,700 [  52738]   INFO - ij.components.ComponentManager - com.intellij.codeInsight.daemon.impl.GeneralHighlightingPassFactory initialized in 154 ms 
+2019-01-21 18:29:10,732 [  52770]   INFO - ij.components.ComponentManager - com.intellij.util.indexing.FileBasedIndexProjectHandler initialized in 24 ms 
+2019-01-21 18:29:10,947 [  52985]   INFO - ij.components.ComponentManager - com.intellij.codeInsight.navigation.CtrlMouseHandler initialized in 210 ms 
+2019-01-21 18:29:11,008 [  53046]   INFO - ij.components.ComponentManager - com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl initialized in 64 ms 
+2019-01-21 18:29:11,039 [  53077]   INFO - ij.components.ComponentManager - com.intellij.facet.impl.pointers.FacetPointersManagerImpl initialized in 33 ms 
+2019-01-21 18:29:11,132 [  53170]   INFO - ij.components.ComponentManager - com.intellij.ide.favoritesTreeView.FavoritesManager initialized in 93 ms 
+2019-01-21 18:29:11,154 [  53192]   INFO - ij.components.ComponentManager - com.intellij.openapi.editor.impl.DocumentMarkupModelManager initialized in 20 ms 
+2019-01-21 18:29:11,255 [  53293]   INFO - ij.components.ComponentManager - com.intellij.openapi.fileEditor.impl.IdeDocumentHistoryImpl initialized in 85 ms 
+2019-01-21 18:29:11,547 [  53585]   INFO - ij.components.ComponentManager - com.intellij.packaging.impl.artifacts.ArtifactManagerImpl initialized in 297 ms 
+2019-01-21 18:29:11,646 [  53684]   INFO - ij.components.ComponentManager - com.intellij.openapi.vcs.annotate.AnnotationsPreloader initialized in 90 ms 
+2019-01-21 18:29:11,767 [  53805]   INFO - ij.components.ComponentManager - com.intellij.openapi.vcs.impl.LineStatusTrackerManager initialized in 120 ms 
+2019-01-21 18:29:11,840 [  53878]   INFO - ij.components.ComponentManager - com.intellij.openapi.vcs.changes.committed.CommittedChangesCache initialized in 65 ms 
+2019-01-21 18:29:12,616 [  54654]   INFO - ij.components.ComponentManager - com.intellij.xdebugger.impl.XDebuggerManagerImpl initialized in 773 ms 
+2019-01-21 18:29:12,634 [  54672]   INFO - ij.components.ComponentManager - com.intellij.remoteServer.impl.runtime.ui.DefaultServersToolWindowManager initialized in 16 ms 
+2019-01-21 18:29:12,717 [  54755]   INFO - ij.components.ComponentManager - com.intellij.javaee.PsiExternalResourceNotifier initialized in 88 ms 
+2019-01-21 18:29:12,737 [  54775]   INFO - ij.components.ComponentManager - com.intellij.xdebugger.memory.component.InstancesTracker initialized in 13 ms 
+2019-01-21 18:29:12,948 [  54986]   INFO - ij.components.ComponentManager - com.intellij.execution.testDiscovery.TestDiscoveryIndex initialized in 211 ms 
+2019-01-21 18:29:13,245 [  55283]   INFO - ij.components.ComponentManager - com.intellij.execution.scratch.JavaScratchCompilationSupport initialized in 297 ms 
+2019-01-21 18:29:13,345 [  55383]   INFO - ij.components.ComponentManager - com.intellij.compiler.backwardRefs.CompilerReferenceServiceImpl initialized in 101 ms 
+2019-01-21 18:29:15,867 [  57905]   INFO - ij.components.ComponentManager - com.intellij.openapi.roots.impl.ModuleRootManagerComponent initialized in 685 ms 
+2019-01-21 18:29:15,898 [  57936]   INFO - ij.components.ComponentManager - com.intellij.facet.FacetManagerImpl initialized in 36 ms 
+2019-01-21 18:29:31,643 [  73681]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 32 millis 
+2019-01-21 18:29:31,890 [  73928]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 2570ms; general responsiveness: ok; EDT responsiveness: 0/10 sluggish, 9/10 very slow 
+2019-01-21 18:29:32,275 [  74313]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2019-01-21 18:29:33,406 [  75444]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2019-01-21 18:29:58,557 [ 100595]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-01-21 18:29:59,357 [ 101395]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-01-21 18:29:59,357 [ 101395]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-01-21 18:29:59,357 [ 101395]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-01-21 18:29:59,410 [ 101448]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-01-21 18:29:59,410 [ 101448]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 

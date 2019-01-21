@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.container.tools.diagnostics.GoogleFeedbackTaskTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-01-21T12:59:56" hostname="DESKTOP-OOU3C7O" time="1.696">
+  <properties/>
+  <testcase name="run_withException_consumesException" classname="com.google.container.tools.diagnostics.GoogleFeedbackTaskTest" time="1.624"/>
+  <testcase name="run_withValidResult_consumesResult" classname="com.google.container.tools.diagnostics.GoogleFeedbackTaskTest" time="0.071"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
